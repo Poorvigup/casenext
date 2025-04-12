@@ -2,14 +2,6 @@ Great idea — let’s give this README a polished, fully-tagged, and GitHub-fri
 
 ---
 
-# 📱 Court Case Prioritization & Scheduling App using Machine Learning
-
-![License](https://img.shields.io/badge/License-MIT-green.svg)  
-![Status](https://img.shields.io/badge/status-idea-blue)  
-![Tech](https://img.shields.io/badge/Tech-Flutter%20%7C%20React%20Native%20%7C%20Python%20%7C%20ML-orange)
-
----
-
 ## 📌 Problem Statement
 
 Court systems worldwide are burdened by significant **backlogs**, delaying justice delivery. Current case prioritization relies on **manual processes** or **simple chronological orders**, which fail to reflect the true urgency or impact of a case.
@@ -44,14 +36,8 @@ A **mobile application** powered by **Machine Learning (ML)** to:
 
 | Layer               | Technology                                                                 |
 |:--------------------|:---------------------------------------------------------------------------|
-| **📱 Mobile App**        | React Native / Flutter / Swift (iOS) / Kotlin (Android)                     |
-| **🖥️ Backend**           | Python (Flask / Django) / Node.js (Express)                                |
-| **🗄️ Database**          | PostgreSQL / MongoDB                                                        |
+| **📱 Mobile App**        | Flutter                   |
 | **🤖 Machine Learning**  | Python, Scikit-learn, Pandas, NumPy, TensorFlow, PyTorch                    |
-| **☁️ Cloud Platform**    | AWS / Google Cloud / Azure                                                   |
-| **🚀 Deployment**        | Docker, Kubernetes, Serverless (AWS Lambda / Cloud Functions)               |
-| **🔗 APIs**              | RESTful APIs                                                                |
-
 ---
 
 ## 📱 Use Cases
@@ -96,19 +82,10 @@ A **mobile application** powered by **Machine Learning (ML)** to:
 /court-prioritization-app
 │
 ├── /mobile-app/
-│   └── Flutter / React Native code
-│
-├── /backend/
-│   └── Flask / Django APIs, ML Model Integration
+│   └── Flutter
 │
 ├── /ml-model/
 │   └── Jupyter Notebooks, Data Preprocessing, Training Scripts
-│
-├── /database/
-│   └── PostgreSQL / MongoDB Schemas
-│
-├── /deployment/
-│   └── Dockerfiles, Kubernetes configs
 │
 └── README.md
 ```
@@ -129,16 +106,3 @@ Here’s how you can help:
 
 ---
 
-## 📬 Contact
-
-For queries, suggestions, or collaborations:  
-📧 **[Open an issue](https://github.com/)** or email us at **courtprioritization@app.com**
-
----
-
-Would you like me to also:
-- Create a `LICENSE` and `CONTRIBUTING.md` file?  
-- Add a real badge set for build, code coverage, or cloud deploy status?  
-- Set up a scaffolded repo with these files already created?  
-
-If yes — just say the word! 🚀
