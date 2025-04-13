@@ -1,3 +1,5 @@
+# 📱 Court Case Prioritization & Scheduling App using Machine Learning
+
 ## 📖 Project Purpose
 
 Court systems worldwide face overwhelming backlogs, delaying justice and eroding public trust. Existing case scheduling often follows basic chronological rules, overlooking case urgency and social impact.
